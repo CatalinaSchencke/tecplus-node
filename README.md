@@ -30,7 +30,7 @@ src/
 ## ⚙️ Instalación y ejecución
 1. Clona este repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/CatalinaSchencke/tecplus-node
    cd tecplus-node
    ```
 
